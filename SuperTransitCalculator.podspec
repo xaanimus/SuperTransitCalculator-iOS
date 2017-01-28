@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SuperTransitCalculator"
-  s.version      = "0.0.1"
+  s.version      = "0.0.1a"
   s.summary      = "Super Transit Calculator is a trip planning library for iOS."
 
   # This description is used to generate tags and improve search results.

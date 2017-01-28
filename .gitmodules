@@ -1,0 +1,3 @@
+[submodule "super_transit_calculator"]
+	path = super_transit_calculator
+	url = https://github.com/xaanimus/super_transit_calculator.git

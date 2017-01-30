@@ -1,0 +1,7 @@
+framework module SuperTransitCalculator {
+    umbrella header "super_transit_umbrella.h"
+    header "super_transit_calculator.h"
+
+    export *
+    module * { export * }
+}
